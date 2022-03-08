@@ -9,4 +9,8 @@ rand=Math.floor(rand);//apaļo lejā
 let uzvaretajs=vardi[rand];
 console.log(vardi[rand]);
 }
-rindas.innerHTML+=``
+rindas.innerHTML+=`
+<tr>
+    <td>${i+1}</td>
+    <td>${uzvaretajs}</td>
+    `
