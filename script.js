@@ -21,5 +21,5 @@ for (let i = 0; i < uzvaretajuSkaits; i++) {
     <td>${uz2}</td>
     </tr>
     `
-
+    
 }
